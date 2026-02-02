@@ -1,0 +1,15 @@
+name: ece276aPR1
+channels:
+  - conda-forge
+  - pytorch
+dependencies:
+  - python=3.11
+  - numpy
+  - scipy
+  - matplotlib
+  - pytorch
+  - torchvision
+  - opencv
+  - pip
+  - pip:
+      - transforms3d
