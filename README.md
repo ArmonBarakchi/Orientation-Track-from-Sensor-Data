@@ -1,6 +1,6 @@
 # How to Use
 
-This project contains the scripts relating to PR1 for ECE276A. Below, there is a guideline for how to run each piece of code.
+This project contains the scripts relating to PR1 for ECE276A. Below, there is a guideline for how to run each piece of code. Note that the data was not mine so I cannot upload it. See the write up for results
 ## Setup
 
 Before running, do one of the follow
